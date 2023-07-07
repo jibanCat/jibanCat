@@ -27,9 +27,13 @@
 
 * PRIYA: A New Suite of Lyman-alpha Forest Simulations for Cosmology [(arXiv:2306.05471)](https://arxiv.org/abs/2306.05471)
 
+![PRYIA_3rd_sightline](https://github.com/jibanCat/jibanCat/assets/23435784/2faf5e80-2bde-4a78-800b-7caffea51211)
+
+[![YouTube link to the full-resoultion video!](./img/youtube-light.svg) YouTube link to the full-resoultion video!](https://youtu.be/FVe9tUBPXIs#gh-light-mode-only)
+[![YouTube link to the full-resolution video!](./img/youtube-dark.svg) YouTube link to the full-resoultion video!](https://youtu.be/FVe9tUBPXIs#gh-dark-mode-only)
+
 
 * MF-Box: Multi-fidelity and multi-scale emulation for the matter power spectrum [(arXiv:2306.03144)](https://arxiv.org/abs/2306.03144)
-
 
 
 [website]: https://jibancat.github.io
