@@ -11,7 +11,7 @@
 
 ### Selected papers
 
-* PRIYA: A new suite of Lyman-alpha forest simulations for cosmology [(arXiv:2306.05471)](https://arxiv.org/abs/2306.05471)
+* PRIYA: A new suite of Lyman-alpha forest simulations for cosmology [(arXiv:2306.05471)](https://arxiv.org/abs/2306.05471) and the companion paper using PRIYA for inference, Cosmological Constraints from the eBOSS Lyman-α Forest using the PRIYA Simulations [(arXiv:2309.03943)](https://arxiv.org/abs/2309.03943)
 
 ![PRYIA_side_by_side](https://github.com/jibanCat/jibanCat/assets/23435784/1cfbc6fd-c5eb-4a8a-97d7-a2a6e961d83e)
 
