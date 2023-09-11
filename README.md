@@ -18,7 +18,7 @@
 [![YouTube link to the full-resoultion video!](./img/youtube-light.svg) YouTube link to the full-resoultion video!](https://youtu.be/xBZLH14Qzyo?si=vVjVIGuARhP0ErwR#gh-light-mode-only)
 [![YouTube link to the full-resolution video!](./img/youtube-dark.svg) YouTube link to the full-resoultion video!](https://youtu.be/xBZLH14Qzyo?si=vVjVIGuARhP0ErwR#gh-dark-mode-only)
 
-* MF-Box: Multi-fidelity and multi-scale emulation for the matter power spectrum [(arXiv:2306.03144)](https://arxiv.org/abs/2306.03144)
+* MF-Box: Multi-fidelity and multi-scale emulation for the matter power spectrum [jibanCat/matter_emu_mfbox](https://github.com/jibanCat/matter_emu_mfbox) [(arXiv:2306.03144)](https://arxiv.org/abs/2306.03144)
 
 ![Yueying style proposal 001](https://github.com/jibanCat/jibanCat/assets/23435784/b674d93b-2143-4bb2-ab4b-f4fd6c2df57a)
 
