@@ -3,10 +3,9 @@
 ### I'm an astronomer, simulator, and data scientist
 
 - 🔭 Check out my personal website: [jibancat.github.io][website]! 
-- 🌱 I’m currently learning PySR, Blender, pastry making, and Japanese!
+- 🌱 I’m currently learning psychology and what is Taiwan/Taiwanese!
 - 🧋 My past works include machine learning pipeline for finding DLAs ([gp_dla_detectoin](https://github.com/rmgarnett/gp_dla_detection)), multi-fidelity emulator for cosmological simulations ([matter_multi_fidelity_emu](https://github.com/jibanCat/matter_multi_fidelity_emu)), and an automated tool for quasar redshift estimation ([gp_qso_redshift](https://github.com/sbird/gp_qso_redshift)).
-- 👯 I’m currently interested in all kinds of multi-fidelity problems, and investigating different ways to solve it.
-- 🥅 2025 Goals: Learn more about self-supervised learning and find a job.
+- 🥅 ~2025 Goals: Learn more about self-supervised learning and find a job~ 2026 Goals: Learn to use Claude and let the agents do works for me (躺平)
 - ⚡ Fun fact: I love to play Elden Ring and cello. And before pursuing my astronomy PhD, I loved writing literature and (briefly) worked in the fascinating field of digital humanities!
 
 ### Selected papers
